@@ -1,0 +1,13 @@
+C:\dev\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\dev\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\dev\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\dev\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\dev\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\dev\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\dev\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\dev\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\dev\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\dev\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\dev\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\dev\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\dev\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
